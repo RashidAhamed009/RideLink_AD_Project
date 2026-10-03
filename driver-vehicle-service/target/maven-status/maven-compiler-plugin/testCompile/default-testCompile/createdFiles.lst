@@ -1,0 +1,3 @@
+com\ridelink\driver\service\DriverServiceUnitTest.class
+com\ridelink\driver\DriverVehicleApplicationTests.class
+com\ridelink\driver\controller\DriverControllerValidationTest.class

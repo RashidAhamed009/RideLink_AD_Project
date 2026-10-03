@@ -1,0 +1,4 @@
+com\ridelink\account\controller\SecurityRbacIntegrationTest.class
+com\ridelink\account\security\SecurityAndRbacUnitTest.class
+com\ridelink\account\controller\AuthControllerValidationTest.class
+com\ridelink\account\service\AccountServiceUnitTest.class

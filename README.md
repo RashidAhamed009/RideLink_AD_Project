@@ -132,5 +132,3 @@ mvn test
 # Run tests for Account Service only
 mvn test -pl account-service
 ```
-"# RideLink_AD_Project" 
-"# RideLink_AD_Project" 

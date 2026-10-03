@@ -1,0 +1,3 @@
+com\ridelink\ride\controller\RideControllerValidationTest.class
+com\ridelink\ride\service\RideServiceUnitTest.class
+com\ridelink\ride\RideManagementApplicationTests.class
