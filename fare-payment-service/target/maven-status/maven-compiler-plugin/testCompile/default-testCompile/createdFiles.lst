@@ -1,0 +1,3 @@
+com\ridelink\payment\controller\FarePaymentControllerValidationTest.class
+com\ridelink\payment\FarePaymentApplicationTests.class
+com\ridelink\payment\service\FarePaymentServiceUnitTest.class
